@@ -1,7 +1,9 @@
 # DUNA AI
 
 ## Overview
-DUNA AI is an Autonomous AI Agent designed for building DUNA-Compliant DAOs on the Solana blockchain. It unifies blockchain governance, legal compliance, and operational oversight under Wyoming’s DUNA framework, ensuring no centralized bottlenecks and complete on-chain transparency.
+*DUNA AI* is an Autonomous AI Agent designed to build DUNA-Compliant DAOs on the Solana blockchain, seamlessly integrating governance, legal compliance, and operational oversight under Wyoming’s DUNA framework. Currently a proof of concept, this project aims to eliminate centralized bottlenecks and ensure complete on-chain transparency. We invite developers, blockchain enthusiasts, and legal experts to contribute and help shape the future of decentralized autonomous organizations.
+
+Website: [https://duna-ai.com](https://duna-ai.com)
 
 - **Automated Legal Checks for DAO Compliance**: Ensures that all DAO operations adhere to the stringent requirements of the DUNA framework.
 - **Seamless Integration with Solana-Based Tooling**: Leverages the robust ecosystem of Solana to provide efficient and scalable solutions for DAO management.
@@ -491,7 +493,7 @@ The DUNA AI project leverages advanced technologies to automate the creation, de
   ```typescript
   // services/taxService.ts
   import { DunaRecord } from
-````
+`````
 
 ## Setup and Usage
 
