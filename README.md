@@ -929,32 +929,7 @@ PORT=3000
 
 **Security Note:** Never commit `.env` files or sensitive credentials to version control. Use environment variables or secure secret management systems in production.
 
-### 3. Running the Application
-
-#### Backend
-
-```bash
-# Navigate to the root directory
-cd duna-ai
-
-# Compile TypeScript and start the server
-npm run build
-npm start
-```
-
-#### Frontend
-
-```bash
-# Navigate to frontend directory
-cd frontend
-
-# Start the frontend development server
-npm start
-```
-
-The backend server will run on `http://localhost:3000` and the frontend on `http://localhost:3001` (or another specified port).
-
-### 4. API Endpoints
+### 3. API Endpoints
 
 #### Authentication
 
