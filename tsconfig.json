@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "./config/**/*.ts",
+    "./models/**/*.ts",
+    "./routes/**/*.ts",
+    "./services/**/*.ts",
+    "./utils/**/*.ts",
+    "./index.ts",
+    "./app.ts"
+  ]
+}
